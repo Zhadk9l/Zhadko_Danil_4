@@ -75,9 +75,7 @@
             rs.Inf();
             Console.WriteLine();
 
-            sn.Move();
-            ds.Move();
-            rs.Move();
+            
 
         }
     }
